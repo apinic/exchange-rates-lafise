@@ -1,0 +1,29 @@
+{
+  "name": "exchange-rates-lafise",
+  "version": "0.0.1",
+  "description": "Exchange Rates from Lafise bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apinic/exchange-rates-lafise.git"
+  },
+  "keywords": [
+    "lafise",
+    "exchange",
+    "rates",
+    "nicaragua"
+  ],
+  "author": "Paulo McNally",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/apinic/exchange-rates-lafise/issues"
+  },
+  "homepage": "https://github.com/apinic/exchange-rates-lafise",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.57.0"
+  }
+}
